@@ -11,7 +11,7 @@
   <img aling="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-##Cursando Analise e desenvolvimento de sistemas
+## Cursando Analise e desenvolvimento de sistemas
 
 Apaixonado por aprender sobre programação e desenvolvimento de aplicativos
 
